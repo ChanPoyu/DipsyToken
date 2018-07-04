@@ -1,1 +1,1 @@
-# My-First-ethereum-project
+# Dipsy Token
